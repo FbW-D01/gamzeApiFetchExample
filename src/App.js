@@ -6,8 +6,8 @@ import './App.css';
 
 const App = () => {
 
-  const APP_ID = "318063c4";
-  const APP_KEY = "b72af0655ad3a4ede8bfd38bd461994f";
+  const APP_ID = "appppp"; // sign up at edamam.com
+  const APP_KEY = "keyyyyy";
   const [reciper, setRecipes] = useState([]);
   const [search, setSearch] = useState("");
   const [query, setQuery] = useState("chicken")
